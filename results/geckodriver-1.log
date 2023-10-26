@@ -1,0 +1,15 @@
+1698301730116	geckodriver	INFO	Listening on 127.0.0.1:61262
+1698301730123	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v4/p255c1qx467fpldbv8q12xqc0000gn/T/rust_mozprofilencCVCs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698301730306	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698301730583	Marionette	INFO	Listening on port 61268
+WebDriver BiDi listening on ws://127.0.0.1:61263
+Read port: 61268
+1698301730677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:61263/devtools/browser/e9c859c5-701d-4311-8809-88082b86d8b2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://alex.academy."
+1698301733766	Marionette	INFO	Stopped listening on port 61268
