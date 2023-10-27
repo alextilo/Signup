@@ -25,6 +25,7 @@ Python Signup Test Automation using the Robot Framework framework.
 * Run Robot Framework:  ``robot --dryrun tests/signup_test.robot``
 * Run Robot Framework:  ``robot -d results -i 'UI Validation' tests/signup_test.robot``
 * Run Robot Framework:  ``robot -d results -i 'UI Validation' tests/signup_test.robot && open report.html && open log.html``
+* Run Robot Framework:  ``robot -d results -i 'Localization Validation' tests/localization_test.robot && open results/report.html && open results/log.html``
 
 ```
 ==============================================================================
